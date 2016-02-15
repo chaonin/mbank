@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
-# author: chaonin 2015/2/15
+# author: chaonin
+# date:   2015/2/15
 from appium import webdriver
 import time
 from selenium.common.exceptions import NoSuchElementException
