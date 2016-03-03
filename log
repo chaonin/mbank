@@ -1,0 +1,17 @@
+a
+b
+c
+A
+debug:: found in lower mode
+1
+2
+phoneBase::switchmode2: not in mode 'upper',  Message: An element could not be located on the page using the given search parameters.
+
+phoneBase::switchmode2: not in mode 'lower',  Message: An element could not be located on the page using the given search parameters.
+
+3
+phoneBase::switchmode2: not in mode 'upper',  Message: An element could not be located on the page using the given search parameters.
+
+phoneBase::switchmode2: not in mode 'lower',  Message: An element could not be located on the page using the given search parameters.
+
+done
